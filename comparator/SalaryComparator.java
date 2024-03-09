@@ -1,4 +1,4 @@
-package homework.homework3.comparator;
+// package homework.homework3.comparator;
 
 import java.util.Comparator;
 
