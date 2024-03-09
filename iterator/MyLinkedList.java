@@ -1,4 +1,4 @@
-package homework.homework3.iterator;
+// package homework.homework3.iterator;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
